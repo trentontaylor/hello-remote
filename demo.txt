@@ -1,0 +1,2 @@
+entered some text into demo.txt
+xxxxx
